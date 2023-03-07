@@ -1,0 +1,15 @@
+INSERT INTO person(name, lastname, birthdate) VALUES ('Сергій', 'Жадан', '1974-8-23');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Софія', 'Андрухович', '1982-11-17');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Андрій', 'Любка', '1987-12-3');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Гаська', 'Шиян', '1980-7-23');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Таіс', 'Золотковська', '1984-8-25');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Іван', 'Байдак', '1990-3-3');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Любко', 'Дереш', '1984-8-10');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Артем', 'Чех', '1985-6-13');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Маркіян', 'Прохасько', '1991-1-1');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Таня', 'Малярчук', '1983-1-1');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Ірена', 'Карпа', '1980-12-8');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Павло', 'Коробчук', '1984-7-12');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Сергій', 'Мартинюк', '1987-12-28');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Артем', 'Чапай', '1981-12-2');
+INSERT INTO person(name, lastname, birthdate) VALUES ('Макс', 'Кідрук', '1984-4-1');
